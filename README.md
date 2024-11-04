@@ -21,3 +21,4 @@ async: Menandakan fungsi berjalan asinkron (tidak mengganggu proses lainnya) dan
 immutable merujuk pada objek atau variabel yang nilainya tidak bisa di ubah setelah di definisikan.
 -
 override adalah konsep dalam pemrograman berorientasi objek yang memungkinkan subclass untuk mendefinisikan ulang metode yang sudah di denfinisikan di superclass
+-
